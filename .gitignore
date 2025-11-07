@@ -1,0 +1,55 @@
+﻿# 🧩 Virtual environment
+venv/
+venf/
+.env/
+ENV/
+
+# 🧠 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧰 IDE & editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 🗃️ OS/system files
+.DS_Store
+Thumbs.db
+
+# 🎥 Media files (large)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# 🧠 Model & output directories
+runs/
+models/
+outputs/
+checkpoints/
+weights/
+
+# ⚙️ Build / temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# 📦 Compiled / binary / large libs
+*.dll
+*.so
+*.dylib
+*.zip
+*.tar
+*.gz
+
+# 🧪 Notebooks checkpoints
+.ipynb_checkpoints/
+
+# 🧾 Misc
+*.csv
+*.json
